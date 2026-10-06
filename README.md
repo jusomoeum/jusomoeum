@@ -1,16 +1,30 @@
-## Hi there 👋
+# 📡 레이더 주소모음안내사이트
 
-<!--
-**jusomoeum/jusomoeum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+필요한 웹사이트를 찾는 시작점, **레이더**입니다.
 
-Here are some ideas to get you started:
+레이더는 외부 웹사이트 정보를 카테고리별로 정리해 안내하는 플랫폼입니다.
+**레이더 링크모음**을 통해 관심 있는 분야의 사이트와 이용 정보를 살펴보세요.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 어떤 정보를 안내하나요?
+
+| 카테고리 | 안내 내용 |
+| --- | --- |
+| AI모음 | 공부와 업무에 활용할 AI 도구 |
+| 커뮤니티 | 관심 분야의 정보와 소통 공간 |
+| 구인구직 | 취업·채용·일자리 관련 사이트 |
+| 해외직구 | 해외 쇼핑 관련 사이트와 이용 정보 |
+| 금융·재테크 | 금융정보를 살펴볼 수 있는 사이트 |
+| 한인교민 | 해외 지역별 생활정보와 커뮤니티 |
+
+## 💡 레이더 링크모음 활용 방법
+
+1. 필요한 분야의 카테고리를 선택하세요.
+2. 사이트의 주요 서비스와 이용 방법을 살펴보세요.
+3. 실제 이용 조건은 해당 사이트에서 확인하세요.
+
+## 🌐 레이더 소개 및 최신주소 안내
+
+[레이더 주소모음안내사이트 방문하기 →](https://radarjuso.com/)
+
+> 레이더는 외부 사이트 정보를 정리해 제공하는 안내 플랫폼이며,
+> 소개된 외부 서비스를 직접 운영하지 않습니다.
